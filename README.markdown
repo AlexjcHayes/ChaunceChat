@@ -2,5 +2,5 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/alexjchayes/pen/KKqjzye](https://codepen.io/alexjchayes/pen/KKqjzye).
 
-Live Website: [ChaunceChat.github.io](ChaunceChat.github.io)
+Live Website: [ChaunceChat.github.io](https://ChaunceChat.github.io)
 
